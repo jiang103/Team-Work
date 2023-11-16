@@ -209,11 +209,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92428efe5c026cd41857a52aed519a40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialHealth: 3
+  initialHealth: 1800
   moveSpeed: 8
-  cost: 8
+  cost: 10
   attackRange: 8
   enmityRange: 10
+  attack: 180
+  defense: 0.8
   attackPrefab: {fileID: 804831201742608621, guid: 1fb8d83e668092d46b52891bf1764cd7, type: 3}
   attackInterval: 1
 --- !u!114 &5127559233510132181
